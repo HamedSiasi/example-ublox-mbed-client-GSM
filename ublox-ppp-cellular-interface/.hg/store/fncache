@@ -1,0 +1,4 @@
+data/UbloxPPPCellularInterface.h.i
+data/UbloxPPPCellularInterface.cpp.i
+data/TESTS/unit_tests/default/main.cpp.i
+data/TESTS/unit_tests/default/template_mbed_app.txt.i

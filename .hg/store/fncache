@@ -1,0 +1,14 @@
+data/pal.lib.i
+data/ublox-cellular-base.lib.i
+data/mbed-os.lib.i
+data/ublox-ppp-cellular-interface.lib.i
+data/main.cpp.i
+data/mbed-client.lib.i
+data/ublox-at-cellular-interface.lib.i
+data/mbed_client_config.h.i
+data/c027_template_mbed_app_json.txt.i
+data/mbed_app.json.i
+data/security.h.i
+data/simpleclient.h.i
+data/mbedtls_mbed_client_config.h.i
+data/c030_template_mbed_app_json.txt.i
